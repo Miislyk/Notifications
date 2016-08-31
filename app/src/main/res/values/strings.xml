@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notifactions</string>
+    <string name="lanzar_notificacion">Lanzar Notificacion</string>
+    <string name="obtener_token">Obtener Token</string>
+</resources>
