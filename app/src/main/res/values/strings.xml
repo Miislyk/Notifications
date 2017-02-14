@@ -2,4 +2,6 @@
     <string name="app_name">Notifactions</string>
     <string name="lanzar_notificacion">Lanzar Notificacion</string>
     <string name="obtener_token">Obtener Token</string>
+    <string name="animal_emisor_perro">Soy un perro, da un toque al gato</string>
+    <string name="animal_emisor_gato">Soy un gato, da un toque al perro</string>
 </resources>
